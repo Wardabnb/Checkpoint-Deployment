@@ -1,0 +1,86 @@
+[
+	{
+		"description": "Develop and maintain web applications using modern frameworks.",
+		"open": true,
+		"title": "Frontend Developer",
+		"location": "San Francisco, CA",
+		"salary": 150000,
+		"company": "Google",
+		"jobType": "Full-time",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png",
+		"companyWebsite": "https://careers.google.com",
+		"companyLocation": "San Francisco, CA"
+	},
+	{
+		"description": "Lead backend development and manage cloud infrastructure.",
+		"open": true,
+		"title": "Backend Developer",
+		"location": "New York, NY",
+		"salary": 160000,
+		"company": "Meta (Facebook)",
+		"jobType": "Full-time",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Meta_Platforms_Inc._logo.svg",
+		"companyWebsite": "https://www.metacareers.com",
+		"companyLocation": "New York, NY"
+	},
+	{
+		"description": "Design UI/UX for mobile and web applications.",
+		"open": true,
+		"title": "UI/UX Designer",
+		"location": "Los Angeles, CA",
+		"salary": 140000,
+		"company": "Netflix",
+		"jobType": "Contract",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+		"companyWebsite": "https://jobs.netflix.com",
+		"companyLocation": "Los Angeles, CA"
+	},
+	{
+		"description": "Analyze market trends and compile business intelligence reports.",
+		"open": true,
+		"title": "Data Analyst",
+		"location": "Boston, MA",
+		"salary": 90000,
+		"company": "Google",
+		"jobType": "Part-time",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png",
+		"companyWebsite": "https://careers.google.com",
+		"companyLocation": "Boston, MA"
+	},
+	{
+		"description": "Develop mobile applications for Android and iOS platforms.",
+		"open": true,
+		"title": "Mobile Developer",
+		"location": "Austin, TX",
+		"salary": 145000,
+		"company": "Meta (Facebook)",
+		"jobType": "Full-time",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Meta_Platforms_Inc._logo.svg",
+		"companyWebsite": "https://www.metacareers.com",
+		"companyLocation": "Austin, TX"
+	},
+	{
+		"description": "Provide technical support and troubleshooting for software products.",
+		"open": true,
+		"title": "Technical Support Engineer",
+		"location": "Seattle, WA",
+		"salary": 85000,
+		"company": "Netflix",
+		"jobType": "Full-time",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
+		"companyWebsite": "https://jobs.netflix.com",
+		"companyLocation": "Seattle, WA"
+	},
+	{
+		"description": "Design and develop user interfaces for internal systems.",
+		"open": true,
+		"title": "Full-stack Developer",
+		"location": "Miami, FL",
+		"salary": 155000,
+		"company": "Google",
+		"jobType": "Full-time",
+		"companyLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_2013_Google.png",
+		"companyWebsite": "https://careers.google.com",
+		"companyLocation": "Miami, FL"
+	}
+]
